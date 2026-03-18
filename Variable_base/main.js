@@ -1,0 +1,12 @@
+var nombre = "Manuel";
+var edad = 25;
+var esDesarrollador = true;
+var mes;
+var variableNull = null;
+console.log("Hola,  ".concat(nombre));
+console.log("Tengo ".concat(edad, " a\u00F1os"));
+console.log("Soy desarrollador: ".concat(esDesarrollador));
+console.log("El mes es: ".concat(mes));
+mes = "Enero";
+console.log("El mes es: ".concat(mes));
+console.log("Variable null: ".concat(variableNull));
