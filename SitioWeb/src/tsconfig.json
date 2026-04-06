@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "../public/scripts", //Carpeta donde se guardarán los archivos compilados
+    "target": "es6", //Versión de JavaScript a la que se compilará el código TypeScript
+    "module": "commonjs", //Sistema de módulos a utilizar
+    "strict": true, //Habilita todas las comprobaciones de tipo estrictas
+  }
+}
